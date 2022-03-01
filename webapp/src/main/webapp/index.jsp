@@ -8,8 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> This is my first DevOps Project dexTer. </h1>
-<h1 style="color:blue;"> Polymath Labs </h1>
+<h1 style="color:blue;"> This is my first DevOps Project </h1>
+<h1 style="color:blue;"> Polymath Labs NR </h1>
 </body>
 </html>
 
