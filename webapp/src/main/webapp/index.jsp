@@ -10,7 +10,7 @@ div {text-align: center;}
 
 <h1 style="color:blue;"> This is my first DevOps Project </h1>
 <h1 style="color:blue;"> Polymath Labs </h1>
-<h3 style="color:green;"> Atdheoo </h3>
+<h1 style="color:green;"> Atdheoo </h1>
 </body>
 </html>
 
