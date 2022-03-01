@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> This is my first DevOps Project on AWS </h1>
+<h1 style="color:blue;"> This is my first DevOps Project </h1>
 <h1 style="color:blue;"> Polymath Labs </h1>
 </body>
 </html>
