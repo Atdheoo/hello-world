@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> This is my first DevOps Project </h1>
-<h1 style="color:blue;"> Pytoo </h1>
+<h1 style="color:blue;"> dexTer. </h1>
 <h1 style="color:green;"> Atdheoo </h1>
 </body>
 </html>
